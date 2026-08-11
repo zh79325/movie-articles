@@ -1,7 +1,11 @@
 {
   "platform": "toutiao",
   "title": "《莫得闲》不拍英雄，只拍凡人乱世求生",
-  "cover_image": "images/img_58486a576bb1.jpg",
+  "cover_images": [
+    "images/img_58486a576bb1.jpg",
+    "images/img_c3ae6eecdf30.jpg",
+    "images/img_8a53a2258923.jpg"
+  ],
   "digest": "《莫得闲》以粗粝写实影像与克制黑色幽默，完成对战时底层生态的精准切片，堪称近期抗战题材佳作。",
   "blocks": [
     {

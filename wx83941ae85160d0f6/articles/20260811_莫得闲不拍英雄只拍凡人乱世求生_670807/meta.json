@@ -25,7 +25,6 @@
     "img_5835fa73974d.jpg",
     "img_58486a576bb1.jpg"
   ],
-  "cover_image": "img_58486a576bb1.jpg",
   "source_urls": [
     "https://k.sina.cn/article_2423907245_m9079e3ad03301b3fe.html",
     "https://weibo.com/2/detail/5327488038471416",
@@ -78,5 +77,10 @@
   "platform_assets": [
     "toutiao"
   ],
-  "wechat_draft": {}
+  "wechat_draft": {},
+  "cover_images": [
+    "img_58486a576bb1.jpg",
+    "img_c3ae6eecdf30.jpg",
+    "img_8a53a2258923.jpg"
+  ]
 }
