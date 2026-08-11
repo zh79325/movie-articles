@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "追剧时品味这种粗粝的黑色幽默，手边备上一款顺口甘醇的白兰地，微醺之际更能咂摸出乱世底层的悲凉与坚韧。",
+      "category": "茶酒生鲜",
+      "theme": "追剧配酒",
+      "reason": "看好剧配好酒，追剧氛围感拉满",
+      "candidates": [
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        },
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000523900481",
+          "name": "[宏村]臭鳜鱼家常款 4条[带包装0.6-1斤/条]安徽特产送红烧料包家庭款徽菜美食家常红烧徽州臭桂鱼真空包装",
+          "price_yuan": 138.0,
+          "final_commission_yuan": 24.84
+        },
+        {
+          "product_id": "10000962387475",
+          "name": "2026年新茶贵州毛峰绿茶日照足高山云雾茶叶浓香型耐泡毛尖茶",
+          "price_yuan": 56.0,
+          "final_commission_yuan": 14.56
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "想要更深入理解那个时代的沉重底色，翻阅一本厚重的历史人文专著，能让你对剧中的乱世图景有更透彻的体悟。",
+      "category": "图书教培",
+      "theme": "历史人文读物",
+      "reason": "看完抗战剧意犹未尽，读本书深入历史",
+      "candidates": [
+        {
+          "product_id": "10000908340400",
+          "name": "绝版重印《美国在中国的失败，1941—1950年》（修订本）",
+          "price_yuan": 70.8,
+          "final_commission_yuan": 14.16
+        },
+        {
+          "product_id": "10000051116990",
+          "name": "【含签名书签】傅佩荣解读经典系列六书",
+          "price_yuan": 377.0,
+          "final_commission_yuan": 75.4
+        },
+        {
+          "product_id": "10000374604943",
+          "name": "知行合一：人生要学的22堂传统文化课",
+          "price_yuan": 41.86,
+          "final_commission_yuan": 8.37
+        },
+        {
+          "product_id": "10000128030880",
+          "name": "餐饮管理制度培训工具包【升级版】规范实用餐饮薪酬管理课",
+          "price_yuan": 198.0,
+          "final_commission_yuan": 99.0
+        },
+        {
+          "product_id": "10000332954475",
+          "name": "2026新款《管理实战通关手册》+精品音视频管理课 会看人善用人懂管人能留人 帮你打造高绩效团队",
+          "price_yuan": 129.0,
+          "final_commission_yuan": 64.5
+        }
+      ]
+    }
+  ]
+}
