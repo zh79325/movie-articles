@@ -6,7 +6,7 @@
   "topic": "《莫得闲》推荐",
   "sentiment": "positive",
   "session_id": "20260811_151328_543_75qhkwla",
-  "created_at": "2026-08-11 15:56:01",
+  "created_at": "2026-08-11 17:43:05",
   "article_form": "news",
   "word_count": 1834,
   "image_count": 13,
@@ -75,7 +75,7 @@
   "write_style": "根据素材写实风格，不要过于夸张",
   "ai_mode": "glm-5.2",
   "has_ad": true,
-  "platform_html": [
+  "platform_assets": [
     "toutiao"
   ],
   "wechat_draft": {}
