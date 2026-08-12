@@ -1,0 +1,92 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《边水往事2》定档：S+资源与主创换血的博弈",
+  "digest": "《边水往事2》在S+资源倾斜与主创大换血下面临口碑两极分化，商业升级与创作纯粹性的博弈将决定其最终成败。",
+  "topic": "《边水往事2》",
+  "sentiment": "neutral",
+  "session_id": "20260812_113954_971_8penndpq",
+  "created_at": "2026-08-12 12:00:23",
+  "article_form": "news",
+  "word_count": 2523,
+  "image_count": 15,
+  "images": [
+    "img_15060d0b3fb2.jpg",
+    "img_01a99d9578e4.jpg",
+    "img_27a4607cddea.jpg",
+    "img_b8b178545fef.jpg",
+    "img_cd6d36989215.jpg",
+    "img_fb6a14b62cae.jpg",
+    "img_79b66f19f0dd.jpg",
+    "img_ac85f411b280.jpg",
+    "img_51e374a0d7cb.jpg",
+    "img_30645d2a4a8c.jpg",
+    "img_4ae748bec57f.jpg",
+    "img_0b116c1eaa71.jpg",
+    "img_4385c6f66fb5.jpg",
+    "img_0e41ec5b1ca2.jpg",
+    "img_34c592236fb7.jpg"
+  ],
+  "cover_image": "img_cd6d36989215.jpg",
+  "cover_images": [
+    "img_cd6d36989215.jpg",
+    "img_01a99d9578e4.jpg",
+    "img_30645d2a4a8c.jpg"
+  ],
+  "source_urls": [
+    "https://tidenews.com.cn/tmh_news.html?id=6a30e73d2b431f000186a512",
+    "https://cjrb.cjn.cn/h5/html5/2026-08/06/content_274175_9777794.htm",
+    "https://ent.sina.cn/2026-07-06/detail-inifuxup1954511.d.html",
+    "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1745731976463403&prevent_activate=1",
+    "http://m.toutiao.com/group/7647908118617244194/?upstream_biz=VolcEngine",
+    "https://v.qq.com/x/cover/mzc003ctrbf49t5/a32670aed7r.html",
+    "https://m.hupu.com/bbs/638940709.html",
+    "http://ent.163.com/keywords/8/b/8fb96c345f804e8b/1.html",
+    "http://www.fengniao.com/nhkc-article/VuNJwhAE/",
+    "http://m.toutiao.com/group/7669693962215260724/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7669977014232728090/?upstream_biz=VolcEngine",
+    "https://www.yzzs.cn/zhuangxiu/fang/zhishi1/432960.html",
+    "https://www.soku.com/search_ikuvideo/q_%E5%BE%80%E4%BA%8B_orderby_2_cateid_86_limitdate_31?_lg=10&hd=0&site=14",
+    "http://m.toutiao.com/group/7672558919121682959/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672572001092960820/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672612674244493839/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672599332195303963/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672593793706639881/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672600043866341926/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672613096602583567/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672811669575238188/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7672599862046704162/?upstream_biz=VolcEngine",
+    "https://search.douban.com/movie/subject_search?search_text=%E8%BE%B9%E6%B0%B4%E5%BE%80%E4%BA%8B+%E7%94%B5%E8%A7%86%E5%89%A7",
+    "http://m.toutiao.com/group/7641268592922673704/?upstream_biz=VolcEngine",
+    "https://m.yule.360.com/content/5099946",
+    "http://m.toutiao.com/group/7672738606204699172/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7668605017133302315/?upstream_biz=VolcEngine",
+    "https://k.sina.com.cn/article_1642592432_61e7f8b004001aw9m.html",
+    "http://m.toutiao.com/group/7667396347930116635/?upstream_biz=VolcEngine",
+    "https://k.sina.com.cn/article_7880068360_1d5b04d0806801iqco.html",
+    "https://www.douban.com/group/topic/488070443/?_spm_id=MjU4MTI1NDY4",
+    "https://m.douban.com/movie/subject/37090537/comments?status=N",
+    "https://post.m.smzdm.com/p/a4qrx8zk/",
+    "http://m.toutiao.com/group/7670023037697344063/?upstream_biz=VolcEngine",
+    "https://www.douban.com/group/topic/490713988/?_spm_id=MjkyMzAzOTg1",
+    "https://www.iqiyi.com/so/q_%E8%BE%B9%E6%B0%B4%E5%BE%80%E4%BA%8B%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%A8%E9%9B%86%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E5%9C%A8%E7%BA%BF",
+    "http://www.iqiyi.com/search/%E8%BE%B9%E6%B0%B4%E5%BE%80%E4%BA%8B.html",
+    "https://www.163.com/dy/article/L1NTFSBQ0514R9KQ.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "glm-5.2",
+  "has_ad": true,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwH5aVdq8p3kYaBOHySwKxjVbSXP8TD8uI7aIDWcyLv-3",
+      "published": false
+    },
+    "newspic": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwAfVLQoPDgsCXJC2UBTpvIIkpXpmfY7zLJdCNiv8UNca",
+      "published": false
+    }
+  }
+}

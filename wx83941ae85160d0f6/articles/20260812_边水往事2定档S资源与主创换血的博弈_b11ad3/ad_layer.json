@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "",
+      "category": "茶酒生鲜",
+      "theme": "追剧啤酒",
+      "reason": "熬夜追剧配点冰啤酒，金三角冒险故事更带感",
+      "candidates": [
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10000154781840",
+          "name": "蓝带经典11度640ml*12瓶装优质醇厚黄啤美式酿造",
+          "price_yuan": 69.0,
+          "final_commission_yuan": 3.45
+        },
+        {
+          "product_id": "10000962387475",
+          "name": "2026年新茶贵州毛峰绿茶日照足高山云雾茶叶浓香型耐泡毛尖茶",
+          "price_yuan": 56.0,
+          "final_commission_yuan": 14.56
+        },
+        {
+          "product_id": "10000464332763",
+          "name": "（泥牌）42/52度  清香型 纯粮白酒  5000ml大包装",
+          "price_yuan": 74.9,
+          "final_commission_yuan": 11.23
+        },
+        {
+          "product_id": "10000642094544",
+          "name": "试喝2包茉莉花陈皮茯苓养生茶出汗不臭",
+          "price_yuan": 22.9,
+          "final_commission_yuan": 9.16
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "",
+      "category": "茶酒生鲜",
+      "theme": "追剧下酒菜",
+      "reason": "追剧《边水往事》怎能少了下酒菜，边看边吃更有氛围",
+      "candidates": [
+        {
+          "product_id": "10000523900481",
+          "name": "[宏村]臭鳜鱼家常款 4条[带包装0.6-1斤/条]安徽特产送红烧料包家庭款徽菜美食家常红烧徽州臭桂鱼真空包装",
+          "price_yuan": 138.0,
+          "final_commission_yuan": 24.84
+        },
+        {
+          "product_id": "10001160241663",
+          "name": "四眼仔专属正宗广东古法盐焗鸡爪网红休闲爆款解馋盐焗鸡爪200克",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.18
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        },
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        }
+      ]
+    }
+  ]
+}
