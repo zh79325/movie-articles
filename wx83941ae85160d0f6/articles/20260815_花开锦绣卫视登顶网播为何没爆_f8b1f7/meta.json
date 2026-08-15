@@ -165,6 +165,10 @@
     "news": {
       "media_id": "VDo1kfcFdKNT0sz1rDSHwFvG6itwGpl45GRmUk73mW9Bz1mq9YGc7rTM000-43bE",
       "published": false
+    },
+    "newspic": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwB3cxVcw9-5w7OuSJxrmfavQ8hv1FbJ2yH-AOW3fKaF9",
+      "published": false
     }
   }
 }
