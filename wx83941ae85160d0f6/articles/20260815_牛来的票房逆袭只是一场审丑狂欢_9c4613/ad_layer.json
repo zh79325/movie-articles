@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "面对这种工业失守的画面，看片时确实需要一些解压零食来缓解视觉疲劳。嚼劲十足的开袋即食牛肉干，能让人在无语凝噎中平复心情。",
+      "category": "食品饮料",
+      "theme": "追剧解压零食",
+      "reason": "看烂片吐槽总得配点零食解压，边看边吃",
+      "candidates": [
+        {
+          "product_id": "10000217745675",
+          "name": "西贝99元任选5件，下单需要先把5件商品加入购物车一起结算不要单独购买！！牛肉芝士塔 牛肉云吞 烤肠等爆款产品",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.98
+        },
+        {
+          "product_id": "10000162004163",
+          "name": "[开袋即食]十月稻田即食黄金水果玉米段10段装",
+          "price_yuan": 25.99,
+          "final_commission_yuan": 3.99
+        },
+        {
+          "product_id": "10000963129058",
+          "name": "【可试吃1片】全麦坚果真有料厚切吐司面包核桃提子南瓜子奇亚籽黑全麦粉面包片代餐饱腹0蔗糖星空蓝莓",
+          "price_yuan": 13.8,
+          "final_commission_yuan": 2.48
+        },
+        {
+          "product_id": "10000112129146",
+          "name": "比比赞水牛乳蛋白棒面包350g早餐面包0反式脂肪酸松软营养健康",
+          "price_yuan": 8.8,
+          "final_commission_yuan": 1.32
+        },
+        {
+          "product_id": "10000794003701",
+          "name": "旺旺碎冰冰盒装家庭号78mlX20综合口味dr",
+          "price_yuan": 14.99,
+          "final_commission_yuan": 0.99
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "把这种荒诞的86分钟当成一场行为艺术来看，倒也符合微醺的状态。备点经典口味的啤酒，微醺之下或许更能品出这股后现代的荒诞味。",
+      "category": "茶酒生鲜",
+      "theme": "看片微醺小酒",
+      "reason": "看这种抽象烂片不如来点小酒助兴，越喝越上头",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10001109213094",
+          "name": "朱鹮酒业黑米酒6度纯发酵非勾兑微醺小甜酒佐餐伴手礼",
+          "price_yuan": 10.9,
+          "final_commission_yuan": 3.27
+        },
+        {
+          "product_id": "10000821806282",
+          "name": "哎蜜蔓越莓利口酒13度微醺洋酒力娇酒果酒蔓越莓利口酒700ml送摇摇杯",
+          "price_yuan": 15.9,
+          "final_commission_yuan": 4.77
+        },
+        {
+          "product_id": "10000274007760",
+          "name": "浙一家米酒枇杷秋梨酒6度糯米酒果酒正宗江南米酒2.5L自然发酵手工酿米酒",
+          "price_yuan": 29.9,
+          "final_commission_yuan": 2.99
+        }
+      ]
+    }
+  ]
+}
