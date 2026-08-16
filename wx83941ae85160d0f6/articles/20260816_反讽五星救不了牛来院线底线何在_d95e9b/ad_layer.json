@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "",
+      "category": "茶酒生鲜",
+      "theme": "观影吐槽啤酒",
+      "reason": "看烂片吐槽配啤酒，猎奇观影场景自然串联饮酒解闷",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10000154781840",
+          "name": "蓝带经典11度640ml*12瓶装优质醇厚黄啤美式酿造",
+          "price_yuan": 69.0,
+          "final_commission_yuan": 3.45
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "",
+      "category": "母婴玩具",
+      "theme": "解压小玩具",
+      "reason": "观众笑到缺氧称解压，顺手推荐桌面解压玩具延续放松场景",
+      "candidates": [
+        {
+          "product_id": "10000824505760",
+          "name": "【大号更解压】3D打印萝卜益智玩具多边形塔解压螺旋",
+          "price_yuan": 19.9,
+          "final_commission_yuan": 9.55
+        },
+        {
+          "product_id": "10001211073182",
+          "name": "【创意减压】3D打印八角萝卜塔解压螺旋立体感官解压星形玩具带手柄",
+          "price_yuan": 9.9,
+          "final_commission_yuan": 4.75
+        },
+        {
+          "product_id": "10001031105656",
+          "name": "儿童按按乐解压速推游戏机打地鼠闯关益智玩具",
+          "price_yuan": 13.8,
+          "final_commission_yuan": 3.03
+        },
+        {
+          "product_id": "10000037931671",
+          "name": "[新生儿防胀气]贝亲第三代宽口径新生儿防胀气奶瓶仿母乳玻璃奶瓶单瓶/套组",
+          "price_yuan": 320.07,
+          "final_commission_yuan": 25.6
+        },
+        {
+          "product_id": "10001074695421",
+          "name": "仁和三伏儿童泡澡包独立包装三伏天泡澡泡脚儿童专用本草植萃全家可用",
+          "price_yuan": 68.0,
+          "final_commission_yuan": 20.4
+        }
+      ]
+    }
+  ]
+}
