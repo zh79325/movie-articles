@@ -1,0 +1,68 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《冰湖重生》特效：S+投资为何做出页游质感？",
+  "digest": "《冰湖重生》特效呈现廉价页游质感，流体解算失效与绿幕穿帮暴露视效工业链条全面失守，S+投资沦为空头支票。",
+  "topic": "冰湖重生",
+  "sentiment": "negative",
+  "session_id": "20260812_063105_167_599e3xa3",
+  "created_at": "2026-08-12 07:01:32",
+  "article_form": "news",
+  "word_count": 2643,
+  "image_count": 17,
+  "images": [
+    "img_054da4b173d0.jpg",
+    "img_d3c805d1b78a.jpg",
+    "img_85d62b191749.jpg",
+    "img_246348367070.jpg",
+    "img_5721fc56ebf1.jpg",
+    "img_9339c89f8852.jpg",
+    "img_30d7341c122e.jpg",
+    "img_10d7f0b062da.jpg",
+    "img_77132413c5d2.jpg",
+    "img_bc37a4529140.jpg",
+    "img_a011f3c19025.jpg",
+    "img_8f70cf969cd8.jpg",
+    "img_1a4eaa4f0e08.jpg",
+    "img_6625f59adc7e.jpg",
+    "img_3215fdb57181.jpg",
+    "img_c2392a0ef3d4.jpg",
+    "img_ba36dfa1a528.jpg"
+  ],
+  "cover_image": "img_85d62b191749.jpg",
+  "cover_images": [
+    "img_85d62b191749.jpg",
+    "img_10d7f0b062da.jpg",
+    "img_ba36dfa1a528.jpg"
+  ],
+  "source_urls": [
+    "https://www.science.org/doi/10.1126/sciadv.aef3201",
+    "https://baike.weixin.qq.com/v223436073.htm?baike_inner=tv",
+    "http://www.iqiyi.com/v_2704o3uutzo.html",
+    "https://m.iqiyi.com/a_280fmg4y8id.html",
+    "http://product.m.dangdang.com/product.php?pid=29981796",
+    "https://3g.china.com/act/ent/11005281/20260806/49657723.html",
+    "https://biznews.sohu.com/a/1049763253_122584715",
+    "http://www.iqiyi.com/creator/6098995764107589",
+    "https://m.sohu.com/a/1027018141_120674124/",
+    "https://www.douban.com/group/topic/488154865/?_spm_id=Mjg0Nzg0NTI3",
+    "https://c.m.163.com/news/a/L3JAVFRG0552QKW6.html",
+    "https://ent.sina.cn/2026-07-07/detail-inifyknx1582228.d.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "glm-5.2",
+  "has_ad": true,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwDKeiLHPuF9I5hZ-qLbg_xu19jT7wlrh8mh0GvvlTVXB",
+      "published": false
+    },
+    "newspic": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwNnDAesBcAUImBxYrfucRnsaRbuhoXGQ_gHyDbqAbygS",
+      "published": false
+    }
+  }
+}

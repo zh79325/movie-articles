@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "追这种泥泞里长出来的深情，情绪起伏比任何过山车都大，这时候手边备上几罐冰镇微醺啤酒，微凉的酒感刚好能压一平心里的火。",
+      "category": "茶酒生鲜",
+      "theme": "追剧微醺啤酒",
+      "reason": "追剧看雨夜初吻等名场面时配点小酒更有氛围感",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10000154781840",
+          "name": "蓝带经典11度640ml*12瓶装优质醇厚黄啤美式酿造",
+          "price_yuan": 69.0,
+          "final_commission_yuan": 3.45
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "长时间追这种情感浓烈的剧，眼睛很容易酸涩疲劳，备上一款贴合眼部的重力眼罩，午休或睡前热敷一下，能很好地缓解追剧带来的眼部压力。",
+      "category": "个护清洁",
+      "theme": "追剧护眼好物",
+      "reason": "熬夜追完大结局后用重力眼罩缓解眼部疲劳",
+      "candidates": [
+        {
+          "product_id": "10000745261559",
+          "name": "重力眼罩微重力眼罩助睡眠遮光缓解眼部疲劳午睡神器",
+          "price_yuan": 19.9,
+          "final_commission_yuan": 7.96
+        },
+        {
+          "product_id": "10000465391780",
+          "name": "【脱不花同款】【三甲牙医推荐气泡护龈】锐舞喷气气泡电动牙刷全方位清洁牙齿干净2025新款软毛可刷舌苔去口气PH5",
+          "price_yuan": 1055.0,
+          "final_commission_yuan": 105.5
+        },
+        {
+          "product_id": "10000724690393",
+          "name": "锐舞儿童电动牙刷喷气式6到15岁青少年2026新款自动防蛀专用礼盒PH3儿童防蛀款",
+          "price_yuan": 659.0,
+          "final_commission_yuan": 65.9
+        },
+        {
+          "product_id": "10000933921684",
+          "name": "okcs分级修护发膜改善烫染受损毛躁分叉干枯养护保湿女",
+          "price_yuan": 55.92,
+          "final_commission_yuan": 13.98
+        },
+        {
+          "product_id": "10001063094235",
+          "name": "理发店专用电热帽斑马纹十档控温双层防水均匀加热护发美发",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 11.97
+        }
+      ]
+    }
+  ]
+}

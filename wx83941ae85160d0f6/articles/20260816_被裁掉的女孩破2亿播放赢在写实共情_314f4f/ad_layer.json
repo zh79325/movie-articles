@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "职场女孩在外奔波，底妆最怕被汗水油脂氧化暗沉。包里备上一块控油持妆的防晒粉饼，随时补妆定妆，即便在空调房与烈日下频繁切换，也能保持清爽好气色。",
+      "category": "美妆护肤",
+      "theme": "职场通勤防晒",
+      "reason": "职场女性被裁引发共鸣，通勤防晒控油粉饼保持体面",
+      "candidates": [
+        {
+          "product_id": "10001115765984",
+          "name": "花西子好气色防晒粉饼9g SPF50+控油持妆敏感肌出游不脱妆",
+          "price_yuan": 109.0,
+          "final_commission_yuan": 21.8
+        },
+        {
+          "product_id": "10000650332750",
+          "name": "[保证正品有运费险]377美白隔离防晒霜60g防紫外线清爽高倍隔离防晒乳军训",
+          "price_yuan": 9.99,
+          "final_commission_yuan": 3.99
+        },
+        {
+          "product_id": "10000172310424",
+          "name": "[推荐拍1发3]玻尿酸润肤补水喷雾168ml 保湿妆前护肤爽肤水661",
+          "price_yuan": 9.99,
+          "final_commission_yuan": 2.99
+        },
+        {
+          "product_id": "10000871706648",
+          "name": "CCSHEER柚子小西冰冰棒丰唇蜜不易沾杯显白护唇水光口红唇釉",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 9.97
+        },
+        {
+          "product_id": "10000505428663",
+          "name": "Mistine蜜丝婷双头唇釉哑光水光镜面口红水光不掉色不沾杯唇蜜",
+          "price_yuan": 34.9,
+          "final_commission_yuan": 8.72
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "追这种写实又扎心的职场剧，情绪起伏极大，手边总得备点开袋即食的甜玉米段。一口咬下去清甜多汁，能瞬间抚平打工人的精神内耗，让紧绷的神经得到片刻放松。",
+      "category": "食品饮料",
+      "theme": "追剧即食零食",
+      "reason": "追AI漫剧看第二季翻车，边吐槽边吃即食玉米解压",
+      "candidates": [
+        {
+          "product_id": "10000317089532",
+          "name": "[水果玉米段]十月稻田金银水果玉米段双色即食新鲜甜玉米真空粗粮免切早餐",
+          "price_yuan": 23.99,
+          "final_commission_yuan": 4.48
+        },
+        {
+          "product_id": "10000963129058",
+          "name": "【可试吃1片】全麦坚果真有料厚切吐司面包核桃提子南瓜子奇亚籽黑全麦粉面包片代餐饱腹0蔗糖星空蓝莓",
+          "price_yuan": 13.8,
+          "final_commission_yuan": 2.48
+        },
+        {
+          "product_id": "10000794003701",
+          "name": "旺旺碎冰冰盒装家庭号78mlX20综合口味dr",
+          "price_yuan": 14.99,
+          "final_commission_yuan": 0.99
+        },
+        {
+          "product_id": "10000062219634",
+          "name": "白莲子精选大颗粒江西广昌白莲250克起",
+          "price_yuan": 65.0,
+          "final_commission_yuan": 13.0
+        },
+        {
+          "product_id": "10000217745675",
+          "name": "西贝99元任选5件，下单需要先把5件商品加入购物车一起结算不要单独购买！！牛肉芝士塔 牛肉云吞 烤肠等爆款产品",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.98
+        }
+      ]
+    }
+  ]
+}

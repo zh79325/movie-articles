@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "哭完这样一场电影，眼睛大概率又酸又胀。睡前不妨戴上能缓解眼部疲劳的遮光助眠眼罩，让温热一点点敷过眼眶，把翻涌了一整晚的情绪，妥帖地安顿进睡眠里。",
+      "category": "个护清洁",
+      "theme": "观影护眼助眠",
+      "reason": "沉浸式BE观影易疲劳，重力眼罩助缓解眼部压力、提升情绪缓冲",
+      "candidates": [
+        {
+          "product_id": "10000745261559",
+          "name": "重力眼罩微重力眼罩助睡眠遮光缓解眼部疲劳午睡神器",
+          "price_yuan": 19.9,
+          "final_commission_yuan": 7.96
+        },
+        {
+          "product_id": "10000465391780",
+          "name": "【脱不花同款】【三甲牙医推荐气泡护龈】锐舞喷气气泡电动牙刷全方位清洁牙齿干净2025新款软毛可刷舌苔去口气PH5",
+          "price_yuan": 1055.0,
+          "final_commission_yuan": 105.5
+        },
+        {
+          "product_id": "10000724690393",
+          "name": "锐舞儿童电动牙刷喷气式6到15岁青少年2026新款自动防蛀专用礼盒PH3儿童防蛀款",
+          "price_yuan": 659.0,
+          "final_commission_yuan": 65.9
+        },
+        {
+          "product_id": "10000933921684",
+          "name": "okcs分级修护发膜改善烫染受损毛躁分叉干枯养护保湿女",
+          "price_yuan": 55.92,
+          "final_commission_yuan": 13.98
+        },
+        {
+          "product_id": "10001063094235",
+          "name": "理发店专用电热帽斑马纹十档控温双层防水均匀加热护发美发",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 11.97
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "还没看的朋友听我一句：纸巾一定备足。首日口碑里“哭掉一包纸巾”是高频词，备一包亲肤柔润的乳霜柔纸巾，擦再多遍鼻子，也不至于泛红发疼。",
+      "category": "日用百货",
+      "theme": "追剧纸巾伴侣",
+      "reason": "‘哭掉一包纸巾’场景强关联——边看边吃，用柔软纸巾擦泪+解压小食抚慰情绪",
+      "candidates": [
+        {
+          "product_id": "10000368791943",
+          "name": "德佑婴儿专用乳霜纸巾云柔巾亲肤手口家庭装保湿柔肤擦鼻纸柔纸巾",
+          "price_yuan": 6.99,
+          "final_commission_yuan": 2.18
+        },
+        {
+          "product_id": "10001053162958",
+          "name": "适用沃尔沃方向盘套xc60/s60/s90/xc90四季通用超薄防滑汽车把套",
+          "price_yuan": 78.0,
+          "final_commission_yuan": 27.3
+        },
+        {
+          "product_id": "10001052841745",
+          "name": "适用比亚迪汉方向盘套汉ev汉l/dmi专用超薄吸汗四季通用汽车把套",
+          "price_yuan": 78.0,
+          "final_commission_yuan": 27.3
+        },
+        {
+          "product_id": "10000549707554",
+          "name": "一次性马桶垫加大加厚全覆盖旅行酒店专用坐垫出差旅游",
+          "price_yuan": 54.8,
+          "final_commission_yuan": 8.22
+        },
+        {
+          "product_id": "10000604865452",
+          "name": "亚麻编织浴室地垫卫生间吸水垫厕所门口防滑垫脚垫进门垫速干地毯",
+          "price_yuan": 24.0,
+          "final_commission_yuan": 7.2
+        }
+      ]
+    }
+  ]
+}

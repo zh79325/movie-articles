@@ -1,0 +1,70 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《逆行人生2》跌至6.9分，消费苦难为何失灵",
+  "digest": "《逆行人生2》票房口碑双扑，揭示“消费苦难”叙事彻底失灵。观众拒绝为悬浮套路买单，现实题材续作红利期宣告终结。",
+  "topic": "《逆行人生2》票房口碑分析",
+  "sentiment": "negative",
+  "session_id": "20260812_003414_826_0h4zkzy0",
+  "created_at": "2026-08-12 01:07:06",
+  "article_form": "news",
+  "word_count": 2608,
+  "image_count": 18,
+  "images": [
+    "img_6c813871007c.jpg",
+    "img_8ff22fbad5c1.jpg",
+    "img_6827c60f7f89.jpg",
+    "img_67f4e1b2f639.jpg",
+    "img_3e88291722de.jpg",
+    "img_d435247babd1.jpg",
+    "img_d0fcdfb096e2.jpg",
+    "img_93f8d4d87db7.jpg",
+    "img_8b245fdeb22f.jpg",
+    "img_61acf6e70bd2.jpg",
+    "img_536dfb9bf8ca.jpg",
+    "img_f83048c7cd1e.jpg",
+    "img_4210fcfa822a.jpg",
+    "img_f25d6986feb0.jpg",
+    "img_7ffc297a33e5.jpg",
+    "img_f9cbe5599825.jpg",
+    "img_ca359887fd5d.jpg",
+    "img_37855d8c608b.jpg"
+  ],
+  "cover_image": "img_f9cbe5599825.jpg",
+  "cover_images": [
+    "img_f9cbe5599825.jpg",
+    "img_ca359887fd5d.jpg",
+    "img_37855d8c608b.jpg"
+  ],
+  "source_urls": [
+    "http://m.toutiao.com/group/7670351074530017811/?upstream_biz=VolcEngine",
+    "https://m.baike.com/wiki/%E9%80%86%E8%A1%8C%E4%BA%BA%E7%94%9F/7358035203756949567",
+    "http://finance.people.com.cn/BIG5/n1/2026/0629/c1004-40749477.html",
+    "https://k.sina.com.cn/article_7880068360_1d5b04d0806801iqco.html",
+    "http://m.toutiao.com/group/7670023037697344063/?upstream_biz=VolcEngine",
+    "https://m.v.qq.com/x/m/play?vid=n3276dgy6zd",
+    "https://www.jianshu.com/p/9b7dd3c68d37",
+    "https://k.sina.cn/article_7879849520_1d5acf63006801oexy.html",
+    "http://m.toutiao.com/group/7671961530354876930/?upstream_biz=VolcEngine",
+    "https://v.qq.com/x/cover/mzc003dorb7nqhp/u3282153mqx.html",
+    "http://m.toutiao.com/group/7671945179670135311/?upstream_biz=VolcEngine",
+    "https://www.douban.com/podcast/36729623/",
+    "http://m.toutiao.com/group/7670562130520801798/?upstream_biz=VolcEngine"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "glm-5.2",
+  "has_ad": true,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwChk9OioNtDf5YhmgkRzKsalz3OzmXVjzKAJUAo-yLVu",
+      "published": false
+    },
+    "newspic": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwOxReLb2_7DhmeY-oajwUWqkYTVzrZC2zTr3ebofbkkD",
+      "published": false
+    }
+  }
+}
