@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "沉浸式观影体验自然少不了氛围的烘托，备上几罐口感醇厚的经典啤酒，微醺之中更能感受史诗的厚重。",
+      "category": "茶酒生鲜",
+      "theme": "观影微醺小酒",
+      "reason": "172分钟史诗巨制，配点小酒更有沉浸氛围",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10001160241663",
+          "name": "四眼仔专属正宗广东古法盐焗鸡爪网红休闲爆款解馋盐焗鸡爪200克",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.18
+        },
+        {
+          "product_id": "10000154781840",
+          "name": "蓝带经典11度640ml*12瓶装优质醇厚黄啤美式酿造",
+          "price_yuan": 69.0,
+          "final_commission_yuan": 3.45
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "漫长的史诗旅途需要能量的补充，手边备上几款开袋即食的休闲零食，能让观影过程更加从容。",
+      "category": "食品饮料",
+      "theme": "观影即食零食",
+      "reason": "看影评长文配点即食零食，边看边吃更惬意",
+      "candidates": [
+        {
+          "product_id": "10000217745675",
+          "name": "西贝99元任选5件，下单需要先把5件商品加入购物车一起结算不要单独购买！！牛肉芝士塔 牛肉云吞 烤肠等爆款产品",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.98
+        },
+        {
+          "product_id": "10000162004163",
+          "name": "[开袋即食]十月稻田即食黄金水果玉米段10段装",
+          "price_yuan": 25.99,
+          "final_commission_yuan": 3.99
+        },
+        {
+          "product_id": "10000112129146",
+          "name": "比比赞水牛乳蛋白棒面包350g早餐面包0反式脂肪酸松软营养健康",
+          "price_yuan": 8.8,
+          "final_commission_yuan": 1.32
+        },
+        {
+          "product_id": "10000794003701",
+          "name": "旺旺碎冰冰盒装家庭号78mlX20综合口味dr",
+          "price_yuan": 14.99,
+          "final_commission_yuan": 0.99
+        },
+        {
+          "product_id": "10000062219634",
+          "name": "白莲子精选大颗粒江西广昌白莲250克起",
+          "price_yuan": 65.0,
+          "final_commission_yuan": 13.0
+        }
+      ]
+    }
+  ]
+}

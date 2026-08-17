@@ -1,0 +1,76 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《冰湖重生》对比《楚乔传》叙事格局为何转向",
+  "digest": "《冰湖重生》将主线从家国大义转向个人情仇，在40集体量内尝试串联复仇与救赎弧光，为古偶续作提供了创作样本。",
+  "topic": "冰湖重生",
+  "sentiment": "neutral",
+  "session_id": "20260817_063039_418_k7bvbef3",
+  "created_at": "2026-08-17 07:09:01",
+  "article_form": "news",
+  "word_count": 2993,
+  "image_count": 21,
+  "images": [
+    "img_b241fa30f31d.jpg",
+    "img_ad21bd8b94a8.jpg",
+    "img_2d669656160e.jpg",
+    "img_d55e4775093c.jpg",
+    "img_28bc95623d6d.jpg",
+    "img_a67a0863595f.jpg",
+    "img_6f89281c631a.jpg",
+    "img_13902029dbf2.jpg",
+    "img_18e16fc57bea.jpg",
+    "img_bc37a4529140.jpg",
+    "img_3e33f1e99a9d.jpg",
+    "img_1a4eaa4f0e08.jpg",
+    "img_9339c89f8852.jpg",
+    "img_4a4611bbfe6c.jpg",
+    "img_85d62b191749.jpg",
+    "img_054da4b173d0.jpg",
+    "img_ba36dfa1a528.jpg",
+    "img_d54da8e0f125.jpg",
+    "img_c105f6c31c8e.jpg",
+    "img_6625f59adc7e.jpg",
+    "img_3caa053d827c.jpg"
+  ],
+  "cover_image": "img_ba36dfa1a528.jpg",
+  "cover_images": [
+    "img_ba36dfa1a528.jpg",
+    "img_85d62b191749.jpg",
+    "img_bc37a4529140.jpg"
+  ],
+  "source_urls": [
+    "https://www.douban.com/group/topic/488154865/?_spm_id=Mjg0Nzg0NTI3",
+    "https://v.qq.com/x/page/i3290imlhuo.html",
+    "https://baike.weixin.qq.com/v223436073.htm?baike_inner=tv",
+    "https://m.iqiyi.com/a_280fmg4y8id.html",
+    "https://m.sohu.com/a/1027018141_120674124/",
+    "http://www.iqiyi.com/v_yo2z1efsq8.html",
+    "https://ent.sina.cn/2026-07-23/detail-iniiunca8276073.d.html",
+    "https://www.sohu.com/a/1053692560_122419481",
+    "http://www.iqiyi.com/v_g7jc0l2yfw.html",
+    "https://v.lmtw.com/mzs/content/detail/id/256806/keyword_id/-1",
+    "https://m.weibo.cn/detail/5331958818408314",
+    "https://m.weibo.cn/detail/5330458472878192",
+    "https://c.m.163.com/news/a/L40M45440552QKW6.html",
+    "http://m.toutiao.com/group/7673782972184674862/?upstream_biz=VolcEngine",
+    "https://k.sina.cn/article_7811096882_m1d193e132033025r1k.html",
+    "http://m.toutiao.com/group/7674197509963383322/?upstream_biz=VolcEngine"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": true,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwHsTZGiKJyIcwR-kkvvKXlCFNcH-IvXBjT_s4esLj_q3",
+      "published": false
+    },
+    "newspic": {
+      "media_id": "VDo1kfcFdKNT0sz1rDSHwF_B2d40iL17ElfGTmVtJyrkl1Rhr2cNO9vQh9RTqzhx",
+      "published": false
+    }
+  }
+}
