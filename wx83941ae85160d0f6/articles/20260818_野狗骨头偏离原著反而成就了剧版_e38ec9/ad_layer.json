@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "",
+      "category": "美妆护肤",
+      "theme": "氛围感唇釉",
+      "reason": "剧中游乐园口红试探名场面沸腾，追剧女孩也要同款唇釉",
+      "candidates": [
+        {
+          "product_id": "10000871706648",
+          "name": "CCSHEER柚子小西冰冰棒丰唇蜜不易沾杯显白护唇水光口红唇釉",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 9.97
+        },
+        {
+          "product_id": "10000505428663",
+          "name": "Mistine蜜丝婷双头唇釉哑光水光镜面口红水光不掉色不沾杯唇蜜",
+          "price_yuan": 34.9,
+          "final_commission_yuan": 8.72
+        },
+        {
+          "product_id": "10000680503448",
+          "name": "[七夕礼物]DPDP[颖儿推荐]心机醇色气垫唇霜持久防水防汗雾面哑光显白口红",
+          "price_yuan": 28.86,
+          "final_commission_yuan": 4.32
+        },
+        {
+          "product_id": "10001115765984",
+          "name": "花西子好气色防晒粉饼9g SPF50+控油持妆敏感肌出游不脱妆",
+          "price_yuan": 109.0,
+          "final_commission_yuan": 21.8
+        },
+        {
+          "product_id": "10000842741161",
+          "name": "海洋至尊男士多效精华乳控油补水保湿喷雾修护舒缓防干裂起皮春夏护肤",
+          "price_yuan": 116.9,
+          "final_commission_yuan": 6.49
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "",
+      "category": "茶酒生鲜",
+      "theme": "追剧微醺小酒",
+      "reason": "追剧看两极口碑讨论，配点啤酒微醺更有氛围",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10000154781840",
+          "name": "蓝带经典11度640ml*12瓶装优质醇厚黄啤美式酿造",
+          "price_yuan": 69.0,
+          "final_commission_yuan": 3.45
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        }
+      ]
+    }
+  ]
+}

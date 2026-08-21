@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "追这种高密度反转的剧集，情绪难免跟着角色大起大落。此时手边备些解馋的零食，能有效缓解紧绷的神经，让追剧体验更松弛。",
+      "category": "食品饮料",
+      "theme": "追剧零食",
+      "reason": "追复仇爽剧必备零食，边看边吃更过瘾",
+      "candidates": [
+        {
+          "product_id": "10000217745675",
+          "name": "西贝99元任选5件，下单需要先把5件商品加入购物车一起结算不要单独购买！！牛肉芝士塔 牛肉云吞 烤肠等爆款产品",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.98
+        },
+        {
+          "product_id": "10000162004163",
+          "name": "[开袋即食]十月稻田即食黄金水果玉米段10段装",
+          "price_yuan": 25.99,
+          "final_commission_yuan": 3.99
+        },
+        {
+          "product_id": "10000112129146",
+          "name": "比比赞水牛乳蛋白棒面包350g早餐面包0反式脂肪酸松软营养健康",
+          "price_yuan": 8.8,
+          "final_commission_yuan": 1.32
+        },
+        {
+          "product_id": "10000794003701",
+          "name": "旺旺碎冰冰盒装家庭号78mlX20综合口味dr",
+          "price_yuan": 14.99,
+          "final_commission_yuan": 0.99
+        },
+        {
+          "product_id": "10000062219634",
+          "name": "白莲子精选大颗粒江西广昌白莲250克起",
+          "price_yuan": 65.0,
+          "final_commission_yuan": 13.0
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "熬夜追平大结局，眼睛酸涩在所难免。备个能缓解眼部疲劳的眼罩，追剧护眼两不误，是对自己更好的照顾。",
+      "category": "个护清洁",
+      "theme": "追剧护眼",
+      "reason": "熬夜追大结局眼睛累，重力眼罩缓解疲劳",
+      "candidates": [
+        {
+          "product_id": "10000745261559",
+          "name": "重力眼罩微重力眼罩助睡眠遮光缓解眼部疲劳午睡神器",
+          "price_yuan": 19.9,
+          "final_commission_yuan": 7.96
+        },
+        {
+          "product_id": "10000465391780",
+          "name": "【脱不花同款】【三甲牙医推荐气泡护龈】锐舞喷气气泡电动牙刷全方位清洁牙齿干净2025新款软毛可刷舌苔去口气PH5",
+          "price_yuan": 1055.0,
+          "final_commission_yuan": 105.5
+        },
+        {
+          "product_id": "10000724690393",
+          "name": "锐舞儿童电动牙刷喷气式6到15岁青少年2026新款自动防蛀专用礼盒PH3儿童防蛀款",
+          "price_yuan": 659.0,
+          "final_commission_yuan": 65.9
+        },
+        {
+          "product_id": "10000933921684",
+          "name": "okcs分级修护发膜改善烫染受损毛躁分叉干枯养护保湿女",
+          "price_yuan": 55.92,
+          "final_commission_yuan": 13.98
+        },
+        {
+          "product_id": "10001063094235",
+          "name": "理发店专用电热帽斑马纹十档控温双层防水均匀加热护发美发",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 11.97
+        }
+      ]
+    }
+  ]
+}

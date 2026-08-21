@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "追剧时情绪跟着剧情起伏，手边备上几包香脆可口的追剧零食，多少能缓解一些看到逻辑漏洞时的无奈。",
+      "category": "食品饮料",
+      "theme": "追剧零食",
+      "reason": "追剧吐槽时手边总得备点零食，边看边吃才过瘾",
+      "candidates": [
+        {
+          "product_id": "10000217745675",
+          "name": "西贝99元任选5件，下单需要先把5件商品加入购物车一起结算不要单独购买！！牛肉芝士塔 牛肉云吞 烤肠等爆款产品",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.98
+        },
+        {
+          "product_id": "10000162004163",
+          "name": "[开袋即食]十月稻田即食黄金水果玉米段10段装",
+          "price_yuan": 25.99,
+          "final_commission_yuan": 3.99
+        },
+        {
+          "product_id": "10000963129058",
+          "name": "【可试吃1片】全麦坚果真有料厚切吐司面包核桃提子南瓜子奇亚籽黑全麦粉面包片代餐饱腹0蔗糖星空蓝莓",
+          "price_yuan": 13.8,
+          "final_commission_yuan": 2.48
+        },
+        {
+          "product_id": "10000794003701",
+          "name": "旺旺碎冰冰盒装家庭号78mlX20综合口味dr",
+          "price_yuan": 14.99,
+          "final_commission_yuan": 0.99
+        },
+        {
+          "product_id": "10000062219634",
+          "name": "白莲子精选大颗粒江西广昌白莲250克起",
+          "price_yuan": 65.0,
+          "final_commission_yuan": 13.0
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "面对意难平的结局走向，倒上一杯清爽的茶饮或啤酒，或许能让这口叹出的气平息些许。",
+      "category": "茶酒生鲜",
+      "theme": "追剧小食饮品",
+      "reason": "大结局烂尾看得来气，开罐啤酒配鸡爪解解闷",
+      "candidates": [
+        {
+          "product_id": "10000711181512",
+          "name": "青岛啤酒经典（1903）500ml*18听db",
+          "price_yuan": 99.0,
+          "final_commission_yuan": 14.85
+        },
+        {
+          "product_id": "10001160241663",
+          "name": "四眼仔专属正宗广东古法盐焗鸡爪网红休闲爆款解馋盐焗鸡爪200克",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.18
+        },
+        {
+          "product_id": "10000229762361",
+          "name": "[7天原浆系列]泰山原浆啤酒麦芽汁浓度8度720ml大黄七 6瓶装",
+          "price_yuan": 72.0,
+          "final_commission_yuan": 7.2
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "剖析这些逻辑漏洞往往需要观众投入不少精力，思考剧情合理性这事，手边备上几包咸香可口的解馋零食，确实能让人在长篇分析中保持头脑清醒。",
+      "category": "茶酒生鲜",
+      "theme": "追剧解馋零食",
+      "reason": "边看剧吐槽边啃零食，追剧标配解馋",
+      "candidates": [
+        {
+          "product_id": "10001160241663",
+          "name": "四眼仔专属正宗广东古法盐焗鸡爪网红休闲爆款解馋盐焗鸡爪200克",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 7.18
+        },
+        {
+          "product_id": "10001236507884",
+          "name": "东北大红袍李子干碗李脱骨李新鲜现摘现发",
+          "price_yuan": 29.9,
+          "final_commission_yuan": 5.98
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        },
+        {
+          "product_id": "10000523900481",
+          "name": "[宏村]臭鳜鱼家常款 4条[带包装0.6-1斤/条]安徽特产送红烧料包家庭款徽菜美食家常红烧徽州臭桂鱼真空包装",
+          "price_yuan": 138.0,
+          "final_commission_yuan": 24.84
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "深入探讨这些题材细节往往需要熬夜拉片分析，长时间盯着屏幕对眼睛负担不小，备上一副能缓解眼部疲劳的助眠眼罩，在休息间隙舒缓一下，看剧分析两不误。",
+      "category": "个护清洁",
+      "theme": "熬夜追剧护眼",
+      "reason": "熬夜追剧吐槽伤眼，重力眼罩助眠缓解疲劳",
+      "candidates": [
+        {
+          "product_id": "10000745261559",
+          "name": "重力眼罩微重力眼罩助睡眠遮光缓解眼部疲劳午睡神器",
+          "price_yuan": 19.9,
+          "final_commission_yuan": 7.96
+        },
+        {
+          "product_id": "10000465391780",
+          "name": "【脱不花同款】【三甲牙医推荐气泡护龈】锐舞喷气气泡电动牙刷全方位清洁牙齿干净2025新款软毛可刷舌苔去口气PH5",
+          "price_yuan": 1055.0,
+          "final_commission_yuan": 105.5
+        },
+        {
+          "product_id": "10000724690393",
+          "name": "锐舞儿童电动牙刷喷气式6到15岁青少年2026新款自动防蛀专用礼盒PH3儿童防蛀款",
+          "price_yuan": 659.0,
+          "final_commission_yuan": 65.9
+        },
+        {
+          "product_id": "10000933921684",
+          "name": "okcs分级修护发膜改善烫染受损毛躁分叉干枯养护保湿女",
+          "price_yuan": 55.92,
+          "final_commission_yuan": 13.98
+        },
+        {
+          "product_id": "10001063094235",
+          "name": "理发店专用电热帽斑马纹十档控温双层防水均匀加热护发美发",
+          "price_yuan": 39.9,
+          "final_commission_yuan": 11.97
+        }
+      ]
+    }
+  ]
+}

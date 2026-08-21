@@ -1,0 +1,84 @@
+{
+  "blocks": [
+    {
+      "slot_id": "slot_1",
+      "anchor": "<!-- AD_ANCHOR:slot_1 -->",
+      "ad_markdown": "",
+      "category": "茶酒生鲜",
+      "theme": "追剧好茶",
+      "reason": "追《太平年》历史大剧，泡壶好茶更有沉浸感",
+      "candidates": [
+        {
+          "product_id": "10000962387475",
+          "name": "2026年新茶贵州毛峰绿茶日照足高山云雾茶叶浓香型耐泡毛尖茶",
+          "price_yuan": 56.0,
+          "final_commission_yuan": 14.56
+        },
+        {
+          "product_id": "10000518476748",
+          "name": "贵州茶叶毛尖绿茶2026新茶正宗明前特级高山云雾绿茶自己喝手工茶浓香耐泡型",
+          "price_yuan": 43.0,
+          "final_commission_yuan": 8.6
+        },
+        {
+          "product_id": "10000216647285",
+          "name": "张裕白兰地醴泉款700ml*1",
+          "price_yuan": 298.0,
+          "final_commission_yuan": 59.6
+        },
+        {
+          "product_id": "10000128269064",
+          "name": "【览翠】酒庄酒珍藏2020一级园红酒宁夏贺兰山东麓干红750ml葡萄酒美乐混酿14.6度",
+          "price_yuan": 398.0,
+          "final_commission_yuan": 39.8
+        },
+        {
+          "product_id": "10000523900481",
+          "name": "[宏村]臭鳜鱼家常款 4条[带包装0.6-1斤/条]安徽特产送红烧料包家庭款徽菜美食家常红烧徽州臭桂鱼真空包装",
+          "price_yuan": 138.0,
+          "final_commission_yuan": 24.84
+        }
+      ]
+    },
+    {
+      "slot_id": "slot_2",
+      "anchor": "<!-- AD_ANCHOR:slot_2 -->",
+      "ad_markdown": "",
+      "category": "图书教培",
+      "theme": "历史启蒙读物",
+      "reason": "剧集带起读史热，顺势推荐传统文化经典延伸阅读",
+      "candidates": [
+        {
+          "product_id": "10000051116990",
+          "name": "【含签名书签】傅佩荣解读经典系列六书",
+          "price_yuan": 377.0,
+          "final_commission_yuan": 75.4
+        },
+        {
+          "product_id": "10000374604943",
+          "name": "知行合一：人生要学的22堂传统文化课",
+          "price_yuan": 41.86,
+          "final_commission_yuan": 8.37
+        },
+        {
+          "product_id": "10000128030880",
+          "name": "餐饮管理制度培训工具包【升级版】规范实用餐饮薪酬管理课",
+          "price_yuan": 198.0,
+          "final_commission_yuan": 99.0
+        },
+        {
+          "product_id": "10000332954475",
+          "name": "2026新款《管理实战通关手册》+精品音视频管理课 会看人善用人懂管人能留人 帮你打造高绩效团队",
+          "price_yuan": 129.0,
+          "final_commission_yuan": 64.5
+        },
+        {
+          "product_id": "10000338312154",
+          "name": "318个管理思维 管理技能提升 企业管理落地执行体系",
+          "price_yuan": 96.0,
+          "final_commission_yuan": 38.4
+        }
+      ]
+    }
+  ]
+}
