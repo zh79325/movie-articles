@@ -1,0 +1,60 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《监狱来的妈妈》这不是改编是改写",
+  "digest": "看完《监狱来的妈妈》我去翻了法院裁定书，15年的故意伤害怎么就变成了反家暴？",
+  "topic": "监狱来的妈妈",
+  "sentiment": "neutral",
+  "session_id": "20260901_063035_747_dxc1onpc",
+  "created_at": "2026-09-01 07:39:42",
+  "article_form": "news",
+  "word_count": 1405,
+  "image_count": 9,
+  "images": [
+    "img_f6ad54b50b9e.jpg",
+    "img_a07588d0650d.jpg",
+    "img_216545344dd2.jpg",
+    "img_7656bef9d494.jpg",
+    "img_61724c41ba6a.jpg",
+    "img_258e0ffbb235.jpg",
+    "img_e93e24ee0e72.jpg",
+    "img_d56ec9f2c499.jpg",
+    "img_91bc24bae010.jpg"
+  ],
+  "cover_image": "img_e93e24ee0e72.jpg",
+  "cover_images": [
+    "img_e93e24ee0e72.jpg",
+    "img_d56ec9f2c499.jpg",
+    "img_91bc24bae010.jpg"
+  ],
+  "source_urls": [
+    "https://k.sina.com.cn/article_7879922982_1d5ae15260680ba5k8.html",
+    "https://ent.sina.cn/2026-08-25/detail-inipnisy9792361.d.html",
+    "https://k.sina.com.cn/article_7879996482_1d5af344206801gume.html",
+    "https://k.sina.com.cn/article_7880068317_1d5b04cdd06801otwq.html",
+    "https://k.sina.cn/article_7857201856_1d45362c001908ff9g.html",
+    "https://m.maoyan.com/apollo/movie/1435142/replies/1225435940",
+    "https://k.sina.com.cn/article_7879995946_1d5af322a06801og6s.html",
+    "http://m.toutiao.com/group/7647908446607655464/?upstream_biz=VolcEngine",
+    "https://k.sina.cn/article_7879922982_1d5ae15260680b7nie.html",
+    "https://k.sina.com.cn/article_7880068317_1d5b04cdd06801otws.html",
+    "http://www.iqiyi.com/search/%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88.html",
+    "https://m.douban.com/movie/discussion/638003495/",
+    "https://view.inews.qq.com/k/20260520V07QFE00?no-redirect=1",
+    "https://k.sina.com.cn/article_7879996482_1d5af344206801gumi.html",
+    "http://m.toutiao.com/group/7657488617685664306/?upstream_biz=VolcEngine",
+    "https://www.douban.com/feed/people/155098501/interests"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlVzKibg1AsliTLVaNtyPSe567c1KaRp057G1O0limNIz",
+      "published": false
+    }
+  }
+}
