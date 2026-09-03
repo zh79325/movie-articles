@@ -1,0 +1,54 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "冰湖重生把楚乔传的生存线改成了复仇套路",
+  "digest": "看完《冰湖重生》前几集我只想问，楚乔怎么从求生剧本直接跳到复仇爽剧了？这还是我认识的那个故事吗？",
+  "topic": "冰湖重生",
+  "sentiment": "neutral",
+  "session_id": "20260902_063032_163_hkc4yp3m",
+  "created_at": "2026-09-02 07:04:19",
+  "article_form": "news",
+  "word_count": 1738,
+  "image_count": 7,
+  "images": [
+    "img_bc37a4529140.jpg",
+    "img_2d669656160e.jpg",
+    "img_28bc95623d6d.jpg",
+    "img_4058573c6d6d.jpg",
+    "img_30d7341c122e.jpg",
+    "img_5721fc56ebf1.jpg",
+    "img_7c0198d7d31f.jpg"
+  ],
+  "cover_image": "img_5721fc56ebf1.jpg",
+  "cover_images": [
+    "img_5721fc56ebf1.jpg",
+    "img_7c0198d7d31f.jpg",
+    "img_30d7341c122e.jpg"
+  ],
+  "source_urls": [
+    "http://www.iqiyi.com/v_1l6eqo28r58.html",
+    "https://view.inews.qq.com/k/20260415V06LPS00?no-redirect=1",
+    "https://post.m.smzdm.com/p/apq5xz4x/",
+    "https://m.yule.360.com/content/5171155",
+    "https://www.sohu.com/a/1069971211_122750477",
+    "http://www.iqiyi.com/search/%E4%B8%A7%E6%9C%8D%E4%B9%8B%E5%A5%B3%E7%94%B5%E5%BD%B1%E5%AE%8C%E6%95%B4%E7%89%88",
+    "https://post.m.smzdm.com/p/am9xe6pz/",
+    "http://www.iqiyi.com/creator/1715835364",
+    "https://post.m.smzdm.com/p/anv7n82v/",
+    "http://m.toutiao.com/group/7680071863799677482/?upstream_biz=VolcEngine",
+    "https://post.m.smzdm.com/p/a6zww02o/",
+    "https://k.sina.cn/article_7879776722_1d5abd9d206801ev7m.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlXOczYsYVeLtJZ9DoUFJhN9obSJBw5w_uWD5vBSiFLDF",
+      "published": false
+    }
+  }
+}
