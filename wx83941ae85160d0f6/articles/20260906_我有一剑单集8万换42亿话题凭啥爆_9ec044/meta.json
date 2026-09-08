@@ -1,0 +1,79 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《我有一剑》单集8万换4.2亿话题，凭啥爆",
+  "digest": "单集8万成本撬动4.2亿话题阅读，《我有一剑，可斩阎罗》的流量逻辑到底怎么回事？",
+  "topic": "《我有一剑，可斩阎罗》",
+  "sentiment": "neutral",
+  "session_id": "20260906_003020_325_1d64d5bz",
+  "created_at": "2026-09-06 01:12:07",
+  "article_form": "news",
+  "word_count": 1486,
+  "image_count": 8,
+  "images": [
+    "img_01f2e82312ef.jpg",
+    "img_e1326e9cc1df.jpg",
+    "img_f5773b60ed9f.jpg",
+    "img_4b91116b3a7c.jpg",
+    "img_91542b0ebb15.jpg",
+    "img_09014287dd23.jpg",
+    "img_880fb3998754.jpg",
+    "img_875af9b51730.jpg"
+  ],
+  "cover_image": "img_01f2e82312ef.jpg",
+  "cover_images": [
+    "img_01f2e82312ef.jpg",
+    "img_880fb3998754.jpg",
+    "img_875af9b51730.jpg"
+  ],
+  "source_urls": [
+    "http://m.toutiao.com/group/7681170910593810950/?upstream_biz=VolcEngine",
+    "https://m.sohu.com/a/1071363851_122094388/",
+    "https://m.sohu.com/a/1071364218_122066679/",
+    "http://m.toutiao.com/group/7681842687502238223/?upstream_biz=VolcEngine",
+    "https://m.sohu.com/a/1071363948_122094388/",
+    "https://m.v.qq.com/x/m/play?cid=mzc003xy55pvgzb&vid=d32865q40g9",
+    "https://v.qq.com/x/cover/mzc003xy55pvgzb/c3286qzhxov.html",
+    "https://bomamei.com/jiWg1/120969/3/7/",
+    "https://v.qq.com/x/cover/mzc003xy55pvgzb/m3286xpt3dg.html",
+    "https://bomamei.com/jiWg1/120969/4/16/",
+    "https://movie.douban.com/subject/37304544/",
+    "https://www.longtengdhw.com/rs9/135048.html",
+    "https://www.douban.com/group/topic/494136924/?_spm_id=MTQwNTIyMjkx",
+    "https://movie.douban.com/subject/36877245/discussion/638009686/",
+    "https://m.douban.com/movie/subject/37346752/comments/",
+    "https://m.douban.com/movie/subject/38364884/comments?status=P",
+    "https://www.hnrtcm.com/hnrdetail/229298.html",
+    "http://www.iqiyi.com/a_aj1tj0haud.html",
+    "https://m.douban.com/movie/discussion/638009453/",
+    "https://movie.douban.com/review/17706878/",
+    "http://www.iqiyi.com/v_q1ck9p61m8.html",
+    "http://www.xinhuanet.com/20260616/f0d382ba8d0143bca078c6c1c8c9dc9f/c.html",
+    "https://v.qq.com/x/cover/mzc00372lim4boo/y3284tvxja9.html",
+    "https://www.bilibili.com/video/BV1kSjA6sEbn/",
+    "https://post.m.smzdm.com/p/aqr88kxv/",
+    "https://tidenews.com.cn/news.html?id=3501319",
+    "http://www.iqiyi.com/v_i06id9r2vw.html",
+    "https://bomamei.com/jiWg1/120969/5/22/",
+    "https://www.nohkentech.com/qasp/141318/",
+    "http://wap.faloo.com/1433071_9.html",
+    "https://www.wangwendashuju.com/anime/detail?media=douyin&seriesId=7662715050096625670",
+    "https://m.qidian.com/soushu/%E6%88%91%E6%9C%89%E4%B8%80%E5%89%91%EF%BC%8C%E8%AF%B7%E6%96%A9%E7%A5%96%E7%A5%A0.html",
+    "https://xiaoshuo.qq.com/writer/19403222501140601",
+    "https://www.qimao.com/shuku/10299603-46464987/",
+    "https://m.xxsy.net/baike/axdj3tevyrqh",
+    "https://m.read.qq.com/read/1050763975/24"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlcqcmsJWzCvfr4aOUYRT5DkFI_34Lpfgn56rAwkz_820",
+      "published": false
+    }
+  }
+}
