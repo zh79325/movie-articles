@@ -1,0 +1,57 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《监狱来的妈妈》获奖，经不起裁定书对比",
+  "digest": "《监狱来的妈妈》拿了国际奖，可对比完裁定书我发现，这片子改的也太多了吧？",
+  "topic": "监狱来的妈妈",
+  "sentiment": "neutral",
+  "session_id": "20260909_063040_125_m87ozq9m",
+  "created_at": "2026-09-09 06:58:29",
+  "article_form": "news",
+  "word_count": 1362,
+  "image_count": 7,
+  "images": [
+    "img_8a53a5fc1472.jpg",
+    "img_1482afcc286d.jpg",
+    "img_5576cf96794e.jpg",
+    "img_e93e24ee0e72.jpg",
+    "img_66d9cb55f25a.jpg",
+    "img_ce268414efaa.jpg",
+    "img_258e0ffbb235.jpg"
+  ],
+  "cover_image": "img_ce268414efaa.jpg",
+  "cover_images": [
+    "img_ce268414efaa.jpg",
+    "img_e93e24ee0e72.jpg",
+    "img_258e0ffbb235.jpg"
+  ],
+  "source_urls": [
+    "https://m.hupu.com/bbs/639362986.html",
+    "http://m.toutiao.com/group/7680564925441393187/?upstream_biz=VolcEngine",
+    "https://www.huxiu.com/article/4887719.html",
+    "https://m.weibo.cn/detail/5340883168789440",
+    "https://post.m.smzdm.com/p/aqr4ol9v/",
+    "https://k.sina.cn/article_7879995946_1d5af322a06801og6s.html",
+    "https://m.douban.com/movie/discussion/637999875/",
+    "https://k.sina.com.cn/article_7879996479_1d5af343f06801ph3o.html",
+    "http://m.toutiao.com/group/7682875194431537706/?upstream_biz=VolcEngine",
+    "https://m.weibo.cn/detail/5340242685986390",
+    "https://m.weibo.cn/detail/5340225035307724",
+    "https://k.sina.com.cn/article_7880068797_1d5b04ebd06801ckeg.html",
+    "https://m.bilibili.com/opus/1205971935650906133",
+    "https://m.dzxw.net/cms/content/475979793",
+    "https://m.weibo.cn/detail/5340847860089454"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAldFNjN-vvCjhPUhIq7W8GQHCbQpFkaNHWbBQWAbI1-wL",
+      "published": false
+    }
+  }
+}
