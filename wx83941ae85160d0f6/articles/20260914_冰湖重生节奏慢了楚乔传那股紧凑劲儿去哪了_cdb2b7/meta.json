@@ -1,0 +1,61 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "冰湖重生节奏慢了？楚乔传那股紧凑劲儿去哪了",
+  "digest": "刷完《冰湖重生》前几集，这慢动作和旧镜头也太多了，节奏跟《楚乔传》完全不是一个味儿。",
+  "topic": "冰湖重生",
+  "sentiment": "neutral",
+  "session_id": "20260914_053031_662_cieb9ahy",
+  "created_at": "2026-09-14 06:03:57",
+  "article_form": "news",
+  "word_count": 1461,
+  "image_count": 10,
+  "images": [
+    "img_b241fa30f31d.jpg",
+    "img_0ee175174476.jpg",
+    "img_28bc95623d6d.jpg",
+    "img_1a4eaa4f0e08.jpg",
+    "img_cf742703ca5c.jpg",
+    "img_c105f6c31c8e.jpg",
+    "img_246348367070.jpg",
+    "img_bc37a4529140.jpg",
+    "img_5721fc56ebf1.jpg",
+    "img_7c0198d7d31f.jpg"
+  ],
+  "cover_image": "img_bc37a4529140.jpg",
+  "cover_images": [
+    "img_bc37a4529140.jpg",
+    "img_5721fc56ebf1.jpg",
+    "img_7c0198d7d31f.jpg"
+  ],
+  "source_urls": [
+    "http://ent.china.com/movie/newszh/11005281/20260831/49711019.html",
+    "https://post.m.smzdm.com/p/ad7dgl8k/",
+    "https://www.iqiyi.com/search/%E5%86%B0%E6%B9%96%E9%87%8D%E7%94%9F.html",
+    "http://www.iqiyi.com/search/%E6%A5%9A%E4%B9%94%E4%BC%A0%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E5%85%A8%E9%9B%86%E5%AE%8C%E6%95%B4%E7%89%88.html",
+    "https://post.m.smzdm.com/p/a5rn45e8/",
+    "https://www.sohu.com/a/1071358970_121164224",
+    "http://m.toutiao.com/group/7683534049612235322/?upstream_biz=VolcEngine",
+    "https://m.v.qq.com/x/m/play?vid=u3285e6fi2p",
+    "http://m.toutiao.com/group/7683467221280031274/?upstream_biz=VolcEngine",
+    "http://m.toutiao.com/group/7683137491720749595/?upstream_biz=VolcEngine",
+    "https://m.weibo.cn/detail/5338755441623316",
+    "http://m.toutiao.com/group/7682620104835596843/?upstream_biz=VolcEngine",
+    "https://post.m.smzdm.com/p/ae6kd5eq/",
+    "http://m.toutiao.com/group/7682600789429010963/?upstream_biz=VolcEngine",
+    "https://m.sohu.com/a/1065759211_121165607/",
+    "https://m.sohu.com/a/1071711557_122094386/"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao"
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlfDxckIRcAYZGo9B0eHV5d0DPMfKR8NtT-8JMoc0Lqlg",
+      "published": false
+    }
+  }
+}
