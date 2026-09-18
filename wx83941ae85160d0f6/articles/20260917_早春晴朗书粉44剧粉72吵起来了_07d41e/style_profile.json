@@ -1,0 +1,22 @@
+{
+  "accent_color": "",
+  "body_font_size": "16px",
+  "body_line_height": "1.8",
+  "body_color": "#333333",
+  "paragraph_spacing": "16px",
+  "heading_style": {
+    "font_size": "",
+    "color": "#1a1a1a",
+    "align": "",
+    "bold": true
+  },
+  "quote_style": {
+    "background": "",
+    "border_left": ""
+  },
+  "image_style": {
+    "border_radius": "8px",
+    "width": "100%",
+    "margin": "20px 0"
+  }
+}
