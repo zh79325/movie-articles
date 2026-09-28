@@ -127,7 +127,8 @@
   "ai_mode": "ai_model",
   "has_ad": false,
   "platform_assets": [
-    "toutiao"
+    "toutiao",
+    "weitoutiao"
   ],
   "wechat_draft": {
     "news": {
