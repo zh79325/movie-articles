@@ -1,0 +1,160 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "厚本为角色减重18斤，观众为何还是不买账",
+  "digest": "为《Sonder·我不是NPC》减了18斤、提前3个月练仪态，厚本的首秀为什么还是被吐槽？",
+  "topic": "《Sonder·我不是NPC》",
+  "sentiment": "neutral",
+  "session_id": "20261021_063015_984_n5tyc15b",
+  "created_at": "2026-10-21 06:47:55",
+  "article_form": "news",
+  "word_count": 2258,
+  "image_count": 8,
+  "images": [
+    "img_a3edeafc4968.png",
+    "img_50c33e4c92b9.png",
+    "img_ad65a9c81e5d.png",
+    "img_7f5d75917195.png",
+    "img_832da940fe94.png",
+    "img_725d75c89235.png",
+    "img_0efe7089d5f0.png",
+    "img_aa830b5e3bf2.jpg"
+  ],
+  "cover_image": "img_725d75c89235.png",
+  "cover_images": [
+    "img_725d75c89235.png",
+    "img_0efe7089d5f0.png",
+    "img_aa830b5e3bf2.jpg"
+  ],
+  "source_urls": [
+    "https://yule.sohu.com/a/1087005204_122880051",
+    "https://baijiahao.baidu.com/s?id=1878896762508242955&wfr=spider&for=pc",
+    "https://k.sina.com.cn/article_7879995946_1d5af322a06801t366.html",
+    "https://k.sina.cn/article_7879776328_1d5abd84806802cq4k.html",
+    "https://k.sina.cn/article_7879848925_1d5acf3dd06801s4b0.html",
+    "https://baike.baidu.com/item/Sonder·我不是NPC/69323586",
+    "https://baike.baidu.com/item/这个冷宫不太冷/69361245",
+    "https://www.sohu.com/a/1087540583_122066679",
+    "https://post.smzdm.com/p/a5rxk53l/",
+    "https://baijiahao.baidu.com/s?id=1879532828481428032&wfr=spider&for=pc",
+    "https://baike.baidu.com/item/周灿/68662956",
+    "https://k.sina.com.cn/article_7879848925_1d5acf3dd06801snzw.html",
+    "https://www.sohu.com/a/1088242678_351788",
+    "https://baijiahao.baidu.com/s?id=1879577262784949675&wfr=spider&for=pc",
+    "https://www.sohu.com/a/1089495397_120952561",
+    "https://ent.sina.cn/2026-10-05/detail-iniueeuf4425677.d.html",
+    "https://ent.sina.cn/2026-10-12/detail-iniuypff8415229.d.html",
+    "https://baijiahao.baidu.com/s?id=1879543018988224657&wfr=spider&for=pc",
+    "https://weibo.com/2/detail/5354261946830184",
+    "https://newrank.cn/article/detail/34795",
+    "https://weibo.com/2/detail/5353500458094918",
+    "https://movie.douban.com/review/17859257/",
+    "https://movie.douban.com/review/17862445/",
+    "https://k.sina.com.cn/article_7879776328_1d5abd84806802djps.html",
+    "https://k.sina.cn/article_7879848925_1d5acf3dd06801snzy.html",
+    "https://m.163.com/dy/article/L930QKCA051494GR.html",
+    "https://k.sina.com.cn/article_7879995946_1d5af322a06801szkw.html",
+    "https://ent.sina.cn/2026-10-10/detail-iniututc6034608.d.html",
+    "https://k.sina.com.cn/article_7879995946_1d5af322a06801sz2g.html",
+    "https://k.sina.com.cn/article_7880068342_1d5b04cf606801pcrq.html",
+    "https://k.sina.com.cn/article_7880068588_1d5b04dec06801t4mq.html",
+    "https://k.sina.com.cn/article_7879848925_1d5acf3dd06801so60.html",
+    "https://ent.sina.cn/2026-10-05/detail-iniucyni4556270.d.html",
+    "https://k.sina.com.cn/article_7879848925_1d5acf3dd06801snzu.html",
+    "https://weibo.com/2/detail/5354343371118475",
+    "https://weibo.com/6369501744/RmrJ0kEDw",
+    "https://m.thepaper.cn/newsDetail_forward_34234649",
+    "https://k.sina.com.cn/article_7879848925_1d5acf3dd06801so62.html",
+    "https://baijiahao.baidu.com/s?id=1878833768193816546&wfr=spider&for=pc",
+    "https://k.sina.com.cn/article_7879848925_1d5acf3dd06801so00.html",
+    "https://ent.sina.cn/2026-10-14/detail-inivekpm7829025.d.html",
+    "https://m.sohu.com/a/1089498795_121924583",
+    "https://k.sina.cn/article_7879995944_1d5af322806802rb14.html",
+    "https://movie.douban.com/subject/38607237/",
+    "https://ent.sina.cn/2026-10-04/detail-iniuankx3589106.d.html",
+    "https://baike.baidu.com/starmap/view?nodeId=f78312c8b7c3a2e8f8fbf9d5",
+    "http://finance.sina.com.cn/jjxw/2026-10-20/doc-inivvsvv6607103.shtml.md",
+    "https://yule.sohu.com/a/1087044064_120546417",
+    "https://www.sohu.com/a/1087044064_120546417",
+    "https://k.sina.com.cn/article_7879776328_1d5abd84806802dtju.html",
+    "https://k.sina.cn/article_7879848925_1d5acf3dd06801so62.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/cover_wx.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/cover_toutiao.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_0",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/slot_0.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_2.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_1",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/slot_1.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_2",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/slot_2.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_3.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_3",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/slot_3.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_1.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_4",
+      "file": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/wx83941ae85160d0f6/magazine_img/slot_4.png",
+      "source": "/root/.openclaw/workspace/output/20261021_063015_984_n5tyc15b/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlXVCjtkomnAnEBxc8EUsEhYngYMs_IBdFtS3Q8TR6oyU",
+      "published": false
+    }
+  }
+}
