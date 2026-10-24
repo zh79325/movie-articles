@@ -1,0 +1,82 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《漂亮的恶意》女主是AI，观众夸比男主还帅",
+  "digest": "看完《漂亮的恶意》我缓了半天，AI建模的女主张知安，凭什么被观众喊比男主还帅？",
+  "topic": "《漂亮的恶意》",
+  "sentiment": "positive",
+  "session_id": "20261025_063015_292_dn91srzp",
+  "created_at": "2026-10-25 06:41:17",
+  "article_form": "news",
+  "word_count": 1664,
+  "image_count": 2,
+  "images": [
+    "img_eb78c1b06a9c.png",
+    "img_99f33029e0a8.png"
+  ],
+  "cover_image": "img_eb78c1b06a9c.png",
+  "cover_images": [
+    "img_eb78c1b06a9c.png",
+    "img_99f33029e0a8.png"
+  ],
+  "source_urls": [
+    "https://sina.cn/news/detail/5339337476542608.html",
+    "https://www.sina.cn/news/detail/5338852508046621.html",
+    "https://baike.baidu.com/item/张知安/69083042",
+    "https://www.sina.cn/news/detail/5338044204846235.html",
+    "https://sina.cn/news/detail/5337596427504029.html",
+    "https://weibo.com/2/detail/5339325711778002?utm_source=tv",
+    "https://sina.cn/news/detail/5339327082530096.html",
+    "https://post.smzdm.com/p/apqmqz90/",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NDMyOTYyOA==&mid=2650420461&idx=1&sn=e946cce2c06ce1f0882beae126800130&chksm=89671980ca7840d7bd80c6a82d1c2c3181fcf10154fdfd4609b8921610cfca7ca83fc4c3d2a9&scene=27",
+    "https://newrank.cn/article/detail/34719",
+    "https://weibo.com/2/detail/5337199931297029?utm_source=tv",
+    "https://www.sina.cn/news/detail/5338644051133337.html",
+    "https://weibo.com/2/detail/5339265783038620?utm_source=tv",
+    "https://weibo.com/2/detail/5338852508046621?utm_source=tv",
+    "https://baijiahao.baidu.com/s?id=1875768118184387327&wfr=spider&for=pc",
+    "http://mt.sohu.com/a/1086403979_122094388",
+    "https://post.smzdm.com/p/a5rxpmr8/",
+    "https://baijiahao.baidu.com/s?id=1836797454757073440&wfr=spider&for=pc",
+    "https://baike.baidu.com/item/海底蟹黄堡/69459651",
+    "https://k.sina.cn/article_2177386743_81c848f702701fb76.html",
+    "https://yule.sohu.com/a/1085263503_122094386",
+    "https://sina.cn/news/detail/5336984022422021.html",
+    "https://www.sina.cn/news/detail/5339265783038620.html",
+    "https://weibo.com/2/detail/5355476185516005",
+    "https://sina.cn/news/detail/5337004113398487.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/root/.openclaw/workspace/output/20261025_063015_292_dn91srzp/wx83941ae85160d0f6/magazine_img/cover_wx.png",
+      "source": "",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/root/.openclaw/workspace/output/20261025_063015_292_dn91srzp/wx83941ae85160d0f6/magazine_img/cover_toutiao.png",
+      "source": "",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlbSn0G407aFkzODjlbwjYVL9EHssd2ze0tHM_t4a8ORW",
+      "published": false
+    }
+  }
+}
