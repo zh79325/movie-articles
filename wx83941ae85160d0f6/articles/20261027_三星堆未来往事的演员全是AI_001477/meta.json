@@ -1,0 +1,159 @@
+{
+  "wechat_app_id": "wx83941ae85160d0f6",
+  "account_name": "我要找电影",
+  "title": "《三星堆：未来往事》的演员，全是AI",
+  "digest": "《三星堆：未来往事》一个真人演员都没有，6个AI角色里，西陵和蚕丛到底立住了没？",
+  "topic": "《三星堆：未来往事》",
+  "sentiment": "neutral",
+  "session_id": "20261027_192601_314_ummu5gqo",
+  "created_at": "2026-10-27 19:56:25",
+  "article_form": "news",
+  "word_count": 1071,
+  "image_count": 8,
+  "images": [
+    "img_7c05fd88d2a8.png",
+    "img_5c8296221ce3.png",
+    "img_a032f7baf490.png",
+    "img_67137cc24fd4.png",
+    "img_f37c8a621717.png",
+    "img_6abe7bb164ba.png",
+    "img_55a5605f1a27.png",
+    "img_55e70328a194.jpg"
+  ],
+  "cover_image": "img_6abe7bb164ba.png",
+  "cover_images": [
+    "img_6abe7bb164ba.png",
+    "img_55a5605f1a27.png",
+    "img_55e70328a194.jpg"
+  ],
+  "source_urls": [
+    "http://m.toutiao.com/group/7700257590244098587/",
+    "http://m.toutiao.com/group/7700930878683349513/",
+    "https://www.chinafilm.gov.cn/dybalxgs/202509/t20250904_928708.html",
+    "https://m.douban.com/people/16344225/statuses/",
+    "https://www.nfnews.com/content/ky9v7Mn53G.html",
+    "http://m.toutiao.com/group/7700821551100215844/",
+    "https://ent.cri.cn/2026-10-23/db61dfe5-35fc-4ad2-864c-6bc92453aa1b.html",
+    "http://ent.ycwb.com/2026-10/26/content_54330568.htm",
+    "http://news.qq.com/rain/a/20260612A053RT00",
+    "https://news.bjd.com.cn/2026/09/27/11975300.shtml",
+    "http://m.toutiao.com/group/7700621944294556200/",
+    "https://www.siff.com/content?aid=101260619165927837699673463459845956",
+    "https://news.qcc.com/postnews/4dd405d083be379b722d96f66c05ed1c.html",
+    "https://yule.360.com/detail/5224787",
+    "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1185043&sid=200",
+    "https://www.sina.cn/media/7307139446",
+    "http://m.toutiao.com/group/7700572394142057023/",
+    "http://www2.xinhuanet.com/ent/20261023/2df20f3cd7384c7fa95096fca20d1f8b/c.html",
+    "http://m.toutiao.com/group/7700851362980725299/",
+    "https://m.1905.com/m/film/info/2259127.shtml",
+    "https://pandaily.com/sanxingdui-future-past-first-licensed-all-ai-workflow-feature-film-bona-cloud-studio",
+    "http://m.toutiao.com/group/7701222799427371554/",
+    "http://m.toutiao.com/group/7700928580004250163/",
+    "https://nga.178.com/read.php?pid=869443917&tid=46856020",
+    "https://nga.178.com/read.php?tid=47154713",
+    "http://m.toutiao.com/group/7700937054166778406/",
+    "http://m.toutiao.com/group/7698650230153101875/",
+    "https://c.m.163.com/news/a/LA1H31UM05149K06.html",
+    "http://www3.xinhuanet.com/ent/20261023/2df20f3cd7384c7fa95096fca20d1f8b/c.html",
+    "https://ent.scol.com.cn/m/wh/202610/83344512.html",
+    "https://m.baike.com/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%BE%80%E4%BA%8B/7633738935983079458",
+    "https://m.huanqiu.com/article/4TioiPAyxvG",
+    "https://cbgc.scol.com.cn/news/8001531",
+    "https://cbgc.scol.com.cn/news/8082025",
+    "http://m.toutiao.com/group/7699628881766040098/",
+    "https://cbgc.scol.com.cn/news/8086318",
+    "http://news.yongzhou.gov.cn/mixmedia/content/WS6adec8dfe4b07a77e523c4dc.html",
+    "http://m.toutiao.com/group/7701300577564721699/",
+    "https://xinwen.bjd.com.cn/content/s6adb0fdce4b0e42f8f01f68f.html",
+    "https://www.yunyingpai.com/media/1040907.html",
+    "http://m.toutiao.com/group/7700924729632309796/",
+    "http://news.qq.com/rain/a/20261024A0E2TY00",
+    "https://m.sohu.com/a/1093196433_122880051/",
+    "http://m.toutiao.com/group/7700942859897176595/",
+    "http://m.toutiao.com/group/7700954891149230642/",
+    "https://pdf.dfcfw.com/pdf/H3_AP202610261830929828_1.pdf",
+    "http://m.toutiao.com/group/7700982970140475904/",
+    "https://m.huanqiu.com/article/4TmM85GKLZc",
+    "http://m.toutiao.com/group/7701268325568987698/",
+    "http://m.163.com/dy/article/LA1T03RE05378Z5Y.html"
+  ],
+  "write_style": "根据素材写实风格，不要过于夸张",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/cover_wx.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/cover_toutiao.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_0",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/slot_0.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_2.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_1",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/slot_1.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_29.jpg",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_2",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/slot_2.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_20.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_3",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/slot_3.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_22.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_4",
+      "file": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/wx83941ae85160d0f6/magazine_img/slot_4.png",
+      "source": "/Users/eleme/Desktop/github/ai-skills/wx_gzh_article_writer/local_workspace/output/20261027_192601_314_ummu5gqo/downloads/describe_images/net_5.jpg",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "YCxuCm9cIImIxhgXqDdAlVC5AhvWmMTvZZLo0mHhV5S_gmBYyrNDJZvNu0BAJbz8",
+      "published": false
+    }
+  }
+}
