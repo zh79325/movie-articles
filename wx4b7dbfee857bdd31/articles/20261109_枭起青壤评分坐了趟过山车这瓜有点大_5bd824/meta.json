@@ -1,0 +1,187 @@
+{
+  "wechat_app_id": "wx4b7dbfee857bdd31",
+  "account_name": "沙雕表情集合",
+  "title": "《枭起青壤》评分坐了趟过山车，这瓜有点大",
+  "digest": "《枭起青壤》热度破纪录、豆瓣却卡在6.1，五万人打分吵成两派，这分数到底冤不冤？",
+  "topic": "《枭起青壤》",
+  "sentiment": "neutral",
+  "session_id": "20261109_003014_041_8wphqv55",
+  "created_at": "2026-11-09 01:39:36",
+  "article_form": "news",
+  "word_count": 1264,
+  "image_count": 10,
+  "images": [
+    "img_791a869435a7.png",
+    "img_012f84975904.jpg",
+    "img_28ea358dcd58.png",
+    "img_b25ea79dbbac.png",
+    "img_975a129b9da8.png",
+    "img_c5b63fe3149d.png",
+    "img_ec126a59d01f.png",
+    "img_4e9eb5a60972.png",
+    "img_e94b45e79195.png",
+    "img_bafdf1a33cb7.jpg"
+  ],
+  "cover_image": "img_4e9eb5a60972.png",
+  "cover_images": [
+    "img_4e9eb5a60972.png",
+    "img_e94b45e79195.png",
+    "img_bafdf1a33cb7.jpg"
+  ],
+  "source_urls": [
+    "https://m.baike.com/wiki/%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4/7573491314637996083",
+    "https://3g.china.com/act/ent/11005281/20251118/49001039.html",
+    "https://movie.douban.com/review/17311697/",
+    "https://m.douban.com/movie/review/17217882/",
+    "https://m.sohu.com/a/959186411_100044149/",
+    "http://ent.china.com/movie/newszh/11005281/20251204/49046947.html",
+    "https://m.sohu.com/a/959906510_122556776/",
+    "https://movie.douban.com/review/17322241/",
+    "https://m.sohu.com/a/957932053_122555311/",
+    "https://m.sohu.com/a/959930549_120351298/",
+    "http://ent.china.com/movie/newszh/11005281/20251126/49024546.html",
+    "https://c.m.163.com/news/a/KF5S25R505538K4A.html",
+    "https://m.yule.360.com/content/4671536",
+    "https://m.sohu.com/a/958407228_120126774?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+    "https://m.yule.360.com/content/4685184",
+    "https://view.inews.qq.com/a/20251124A051K300",
+    "https://kan.china.com/article/6134705.html",
+    "https://m.sohu.com/a/959887207_122554777/",
+    "http://ent.china.com/movie/newszh/11005281/20251126/49022627.html",
+    "http://m.toutiao.com/group/7584266290076959267/",
+    "https://3g.china.com/act/ent/11005281/20251127/49027451.html",
+    "https://view.inews.qq.com/a/20251214A035PV00",
+    "https://m.tvmao.com/kanju/Z19oayZb/episode/6-21",
+    "http://ent.china.com/movie/newszh/11005281/20251124/49015651.html",
+    "https://c.m.163.com/news/a/KENS35TT05536ER2.html",
+    "https://m.sohu.com/a/959909616_122555311/",
+    "https://news.china.com/socialgd/10000169/20251130/49034176_all.html",
+    "https://3g.china.com/act/ent/11005281/20251118/49001059.html",
+    "http://ent.china.com/movie/newszh/11005281/20251117/48997958.html",
+    "https://ent.china.com/tv/news/11042503/20241230/47807700.html",
+    "https://m.baike.com/wiki/%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4/7246642114582631715",
+    "https://m.thepaper.cn/newsDetail_forward_32212578",
+    "http://ent.china.com/movie/newszh/11005281/20251117/48997851.html",
+    "https://movie.douban.com/review/17236589/",
+    "https://sina.cn/news/detail/5238320826417529.html",
+    "https://m.thepaper.cn/newsDetail_forward_32208967",
+    "https://movie.douban.com/review/17290677/",
+    "https://www.163.com/dy/article/KI4OC8UF051286O7.html",
+    "https://movie.douban.com/review/17215558/",
+    "http://m.toutiao.com/group/7655523073478738484/",
+    "https://movie.douban.com/subject/35489172/celebrities",
+    "http://m.toutiao.com/group/7573661043394626086/",
+    "https://m.jiemian.com/article/13741761.html",
+    "https://movie.douban.com/subject/35489172/",
+    "http://ent.china.com/movie/newszh/11005281/20260405/49387642.html",
+    "https://m.sohu.com/a/965811997_122577078/",
+    "https://sina.cn/news/detail/5241732057011316.html",
+    "http://news.qq.com/rain/a/20251211A07WJ500",
+    "https://movie.douban.com/subject/35489172/comments?start=20&sort=new_score&status=P",
+    "https://m.sohu.com/a/961228407_122544231/",
+    "http://ent.china.com/movie/newszh/11005281/20251206/49051142.html",
+    "http://ent.china.com/movie/newszh/11005281/20260130/49209521.html",
+    "https://view.inews.qq.com/a/20251211A07WJ500",
+    "https://m.thepaper.cn/newsDetail_forward_32167225",
+    "https://m.tvsou.com/article/fdf3cb76c3b0a93707lf/",
+    "http://news.qq.com/rain/a/20251202A03X7J00"
+  ],
+  "write_style": "根据素材写出来幽默风趣",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/cover_wx.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_36.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/cover_toutiao.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_36.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_0",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_0.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_37.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_1",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_23.jpg",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_23.jpg",
+      "status": "raw",
+      "attempts": 3,
+      "issues": [
+        "中文可见文字 121 字，超过上限 120 字"
+      ],
+      "reused": false
+    },
+    {
+      "page": "slot_2",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_2.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_41.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_3",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_3.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_8.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_4",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_4.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_30.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_5",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_5.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_39.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_6",
+      "file": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/wx4b7dbfee857bdd31/magazine_img/slot_6.png",
+      "source": "/root/.openclaw/workspace/output/20261109_003014_041_8wphqv55/downloads/describe_images/net_36.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "mfTq-eT-Vi2A9-HSfowcPG0IjweCqwnEcLzqOU50DjC_FokFDPvHSy4XCx20o5Np",
+      "published": false
+    }
+  }
+}
