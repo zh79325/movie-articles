@@ -1,0 +1,145 @@
+{
+  "wechat_app_id": "wx4b7dbfee857bdd31",
+  "account_name": "沙雕表情集合",
+  "title": "宋佳文淇被夸爆，这部电影豆瓣才5.9分",
+  "digest": "《我们仅有一次的人生》开分5.9，夸演技的和嫌剧本的在评论区吵成一锅粥，这分数到底冤不冤？",
+  "topic": "《我们仅有一次的人生》",
+  "sentiment": "neutral",
+  "session_id": "20261112_063016_902_1fqdq5es",
+  "created_at": "2026-11-12 07:14:05",
+  "article_form": "news",
+  "word_count": 1116,
+  "image_count": 8,
+  "images": [
+    "img_74fa1ef8036d.png",
+    "img_673e439c3942.png",
+    "img_3c1b805b6f4c.png",
+    "img_967bb0816714.png",
+    "img_8a8ff5107c28.png",
+    "img_967f9d09161f.png",
+    "img_f02c40a07e84.png",
+    "img_23df769df350.jpg"
+  ],
+  "cover_image": "img_967f9d09161f.png",
+  "cover_images": [
+    "img_967f9d09161f.png",
+    "img_f02c40a07e84.png",
+    "img_23df769df350.jpg"
+  ],
+  "source_urls": [
+    "https://maoyan.dianping.com/asgard/information/20396459",
+    "http://m.toutiao.com/group/7706475023103492659/",
+    "http://m.toutiao.com/group/7705383004377481728/",
+    "https://m.1905.com/m/news/zaker/1767465.shtml",
+    "https://ent.cri.cn/2026-10-21/5ac1b23c-cada-4e34-a786-59d2a6776cb8.html",
+    "http://m.toutiao.com/group/7699058327292035610/",
+    "https://m.thepaper.cn/newsDetail_forward_34414674",
+    "https://www.1905.com/mdb/film/2259372/info/",
+    "http://m.toutiao.com/group/7706518742770975295/",
+    "http://m.toutiao.com/group/7706175377177117193/",
+    "http://m.toutiao.com/group/7706529962810950163/",
+    "https://m.1905.com/m/news/zaker/1766999.shtml",
+    "https://focusnews.com.tw/2025/02/631864/?amp=1",
+    "http://m.toutiao.com/group/7706087163867284003/",
+    "http://m.toutiao.com/group/7706183547383530013/",
+    "http://www.dmcc.org.cn/mainSite/xw/yjxw/dyxw/1380126/index.html",
+    "https://movie.douban.com/subject/6109756/discussion/637545570/?author=0",
+    "https://movie.douban.com/subject/37178027/discussion/637854286/",
+    "https://movie.douban.com/subject/35797709/discussion/637462167/?author=0",
+    "https://movie.douban.com/subject/36208089/discussion/637958494/",
+    "https://movie.douban.com/subject/21354116/discussion/637917243/?author=1",
+    "http://news.qq.com/rain/a/20261108A0CH8L00",
+    "https://www.my399.com/wzly/2026/11-10/01qd48qk.html",
+    "http://m.toutiao.com/group/7698956423597720118/",
+    "https://3g.douban.com/movie/subject/36424371/",
+    "https://i.maoyan.com/apollo/movie/341231/extras/highlights",
+    "http://m.toutiao.com/group/7698652269608256010/",
+    "http://m.toutiao.com/group/7706518288029614626/",
+    "https://movie.douban.com/subject/36424371/comments",
+    "https://3g.china.com/act/ent/11005281/20261111/49859226.html",
+    "https://m.douban.com/people/48562124/status/10006622628/",
+    "https://www.movienco.co.uk/films/three-lives-and-only-one-death/score/",
+    "https://m.douban.com/movie/subject/36424371/comments?sort=new_score&start=0&status=P",
+    "https://www.csfd.cz/film/1246748-jeden-zivot/recenze/?page=11",
+    "https://m.sohu.com/a/1099621177_121903489/",
+    "https://editorial.rottentomatoes.com/related-movie-id/25dcf83e-bc60-3cd6-909d-9f037f37d2e2/"
+  ],
+  "write_style": "根据素材写出来幽默风趣",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/cover_wx.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/cover_toutiao.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_0",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/slot_0.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_13.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_1",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/slot_1.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_19.jpg",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_2",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/slot_2.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_18.jpg",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_3",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/slot_3.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_20.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_4",
+      "file": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/wx4b7dbfee857bdd31/magazine_img/slot_4.png",
+      "source": "/root/.openclaw/workspace/output/20261112_063016_902_1fqdq5es/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "mfTq-eT-Vi2A9-HSfowcPGrnvUfpbfQcKSw-q4zpTx4QBs3vLal2Mx0bYWHaZSKa",
+      "published": false
+    }
+  }
+}
