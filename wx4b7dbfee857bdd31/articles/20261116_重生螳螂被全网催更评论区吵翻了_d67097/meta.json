@@ -1,0 +1,132 @@
+{
+  "wechat_app_id": "wx4b7dbfee857bdd31",
+  "account_name": "沙雕表情集合",
+  "title": "重生螳螂被全网催更，评论区吵翻了",
+  "digest": "《重生螳螂》全网播放破6亿，评论区一半催更一半算成本账，这瓜我先蹲为敬。",
+  "topic": "《重生螳螂，觉醒无限吞噬进化》",
+  "sentiment": "positive",
+  "session_id": "20261116_003018_457_85n63sv5",
+  "created_at": "2026-11-16 01:02:54",
+  "article_form": "news",
+  "word_count": 1092,
+  "image_count": 7,
+  "images": [
+    "img_4be86b3d77ed.png",
+    "img_cdf89929c35d.png",
+    "img_ddca143a499e.png",
+    "img_787b13cd464a.png",
+    "img_2c145e389356.png",
+    "img_c31fd21d7397.png",
+    "img_519398cec9b0.jpg"
+  ],
+  "cover_image": "img_2c145e389356.png",
+  "cover_images": [
+    "img_2c145e389356.png",
+    "img_c31fd21d7397.png",
+    "img_519398cec9b0.jpg"
+  ],
+  "source_urls": [
+    "https://novel.html5.qq.com/portal/novel-intro?bookid=1143706544&ch=004645&isFromOld=1&traceid=5010",
+    "https://www.douban.com/group/topic/504348447/?_spm_id=MjIyMjI4MDEy",
+    "https://m.xs8.cn/baike/1gmqm4tw4rxkg",
+    "https://m.readnovel.com/baike/1y2jhj80z8e5z",
+    "https://mlishi.bookresource.qq.com/chapter/1028101211/661397980/",
+    "https://m.qimao.com/shuku/1834777/?full_screen=3&hasNavBar=false",
+    "https://www.iqiyi.com/ranks1PCA/37/2662889802282233",
+    "https://m.qidian.com/bookrecommend/756216b925de645b/",
+    "https://www.hongxiu.com/baike/1pcbn19zp7m2o",
+    "https://m.xs8.cn/baike/1gmqm4tw4vuhl",
+    "http://m.toutiao.com/group/7707940780585697843/",
+    "https://m.baike.com/wiki/%E9%87%8D%E7%94%9F%E8%9E%B3%E8%9E%82%EF%BC%8C%E8%A7%89%E9%86%92%E6%97%A0%E9%99%90%E5%90%9E%E5%99%AC%E8%BF%9B%E5%8C%96/7707269323946311680",
+    "https://m.maoyan.com/asgard/movie/1583239/cast/1",
+    "http://m.toutiao.com/group/7707638165925888552/",
+    "https://www.bilibili.com/video/BV16txx6gEoT/",
+    "https://m.read.qq.com/read/1050225597/6",
+    "http://m.toutiao.com/group/7708216125674357248/",
+    "https://fanqienovel.com/page/7422961270665514046",
+    "https://m.inf.qq.com/read/1038101211/93",
+    "https://fanqienovel.com/page/7086787551003937828?force_mobile=1",
+    "https://m.pin.qq.com/read/1038101211/14",
+    "https://m.bilibili.com/video/BV1x5L8zJEGW",
+    "http://m.toutiao.com/group/7707584251998241290/",
+    "https://www.trendingonweibo.com/hotwords/chengdu-designer-ai-drama-4000-yuan-600-million-views/",
+    "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniysvma7293061.shtml.md",
+    "http://m.toutiao.com/group/7708197550121091627/",
+    "https://www.dianyingjie.com.cn/2026/1110/412211.shtml",
+    "https://myanimelist.net/forum/?topicid=2202744",
+    "https://m.webtoons.com/en/action/reincarnator/s2-ep-119-aria-of-despair-1/comment?episode_no=120&title_no=6297",
+    "https://myanimelist.net/forum/?topicid=2252967",
+    "https://m.hongxiu.com/baike/1pcbn19zp7m2o",
+    "https://movie.douban.com/subject/36591339/comments?status=P",
+    "https://usw-m.webtoons.com/en/action/starting-over-as-a-tree/episode-5/comment?episode_no=5&title_no=10412"
+  ],
+  "write_style": "根据素材写出来幽默风趣",
+  "ai_mode": "ai_model",
+  "has_ad": false,
+  "platform_assets": [
+    "toutiao",
+    "weitoutiao"
+  ],
+  "image_provenance": [
+    {
+      "page": "cover_wx",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/cover_wx.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "cover_toutiao",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/cover_toutiao.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_0",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/slot_0.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_4.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_1",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/slot_1.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_3.jpg",
+      "status": "magazine",
+      "attempts": 3,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_2",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/slot_2.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_5.jpg",
+      "status": "magazine",
+      "attempts": 1,
+      "issues": [],
+      "reused": false
+    },
+    {
+      "page": "slot_3",
+      "file": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/wx4b7dbfee857bdd31/magazine_img/slot_3.png",
+      "source": "/root/.openclaw/workspace/output/20261116_003018_457_85n63sv5/downloads/describe_images/net_0.jpg",
+      "status": "magazine",
+      "attempts": 2,
+      "issues": [],
+      "reused": false
+    }
+  ],
+  "wechat_draft": {
+    "news": {
+      "media_id": "mfTq-eT-Vi2A9-HSfowcPHtzP2Z5W5SDXHuwjJVzIU3-_iG-QV1YQRERwQSnRR9l",
+      "published": false
+    }
+  }
+}
